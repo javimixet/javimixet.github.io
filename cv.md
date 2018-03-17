@@ -10,8 +10,8 @@ Industrial Designer
 {: .subt }
 
 <div id="webaddress">
-<a href="mailto:javimixet@gmail.com">javimixet@gmail.com</a>
-| <a href="{{ site.baseurl }}/">Portfolio</a>
+<a class="screen" href="mailto:javimixet@gmail.com">Email</a> <a class="print" href="mailto:javimixet@gmail.com">javimixet@gmail.com</a>
+| <a class="screen" href="{{ site.baseurl }}/">Portfolio</a><a class="print" href="{{ site.baseurl }}/">https://javimixet.github.io</a>
 </div>
 
 
@@ -104,3 +104,5 @@ Python, HTML+CSS+JS, Arduino, OSL, Processing, C++.
 ## Last Updated
 
 Mar 2018
+
+<a href="javascript:window.print()">Print</a>

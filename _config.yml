@@ -6,9 +6,9 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Javi Ballester
-email: katherinefukui@gmail.com
-description: Portfolio and CV. # > # this means to ignore newlines until "baseurl:"
+title: Javi Ballester Portfolio
+email: javimixet@gmail.com
+description: Portfolio and online printable CV # > # this means to ignore newlines until "baseurl:"
   
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://javimixet.github.io" # the base hostname & protocol for your site
