@@ -72,8 +72,7 @@ __Freelance__
 - CAD (plastic structural pieces for injection molding, wood cutting optimization, wood furniture structural analysis)
 - Electronic devices diagnosis and repair (basic soldering, Arduino programing, broken pieces reconstruction or substitution, firmware and drivers wipe and reload, Operating System repair or substitution)
 
-## Skills
-### Software
+## Computer Skills
 
 __CAD, CAE__
 

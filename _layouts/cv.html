@@ -3,11 +3,21 @@
 <head>
   <meta charset=utf-8 />
   <meta name="HandheldFriendly" content="true" />
-  <meta name="MobileOptimized" content="720" />
+  <meta name="MobileOptimized" content="320" />
   <meta name="viewport" content="initial-scale=1.0, maximum-scale=1.0, width=device-width, user-scalable=no" />
 
   <title> {% if page.title %} {{ page.title }} | {% endif %} CV</title>
-  <link href="{{ "/css/cv-screen.css" | prepend: site.baseurl }}" type="text/css" rel="stylesheet" media="screen">
+
+  <!-- smart phone css  -->
+  <link href="{{ "/css/cv-phone.css" | prepend: site.baseurl }}" rel="stylesheet" type="text/css" media="all and (min-width: 0px) and (max-width: 480px)" />
+
+  <!-- Tablet -->
+  <link href="{{ "/css/cv-tablet.css" | prepend: site.baseurl }}" rel="stylesheet" type="text/css" media="all and (min-width: 481px) and (max-width: 800px)" />
+
+  <!-- Desktop -->
+  <link href="{{ "/css/cv-screen.css" | prepend: site.baseurl }}" rel="stylesheet" type="text/css" media="only screen and (min-width:801px)">
+
+  <!-- <link href="{{ "/css/cv-screen.css" | prepend: site.baseurl }}" type="text/css" rel="stylesheet" media="screen"> -->
   <link href="{{ "/css/cv-print.css" | prepend: site.baseurl }}" type="text/css" rel="stylesheet" media="print">
 </head>
 <body>
