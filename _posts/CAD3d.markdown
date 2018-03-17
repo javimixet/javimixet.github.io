@@ -1,13 +1,8 @@
 ---
 layout: post
-title:  "Food Right Meow"
-date:   2016-01-19 12:37:36 -0800
-categories: product
+title:  "CAD & 3D"
 thumbnail: /images/thumb-catfood.png
-caption: "Product Design"
-type: "Personal Project"
-info: {Role: Product Designer, Type: Personal, Date: 2016}
-intro: "This is a personal project about on demand cat food delivery."
+intro: "Samples of CAD and 3D Computer Graphics works."
 ---
 
 <div class="full-bleed-white" markdown="1">

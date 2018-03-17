@@ -1,13 +1,10 @@
 ---
 layout: post
-title:  "Food Right Miow"
-date:   2017-01-19 12:37:36 -0800
-categories: product
+title:  "GD & 2D"
 thumbnail: /images/boles_constancia_color_bordes.png
 caption: "Product Design"
 type: "Personal Project"
-info: {Role: Product Designer, Type: Personal, Date: 2016}
-intro: "This is a personal project about on demand cat food delivery."
+intro: "Graphic Desing and 2D Computer Graphics works."
 ---
 
 <div class="full-bleed-white" markdown="1">
