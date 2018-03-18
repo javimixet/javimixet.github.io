@@ -10,7 +10,7 @@ Industrial Designer
 {: .subt }
 
 <div id="webaddress">
-<a class="screen" href="mailto:javimixet@gmail.com">Email</a> <a class="print" href="mailto:javimixet@gmail.com">javimixet@gmail.com</a> | <a class="screen" href="{{ site.baseurl }}/">Portfolio</a><a class="print" href="{{ site.baseurl }}/">https://javimixet.github.io</a><span class="screen"> | </span><a class="screen" href="javascript:window.print()">Print</a>
+<a class="screen" href="mailto:javimixet@gmail.com">Email</a><a class="printi" href="mailto:javimixet@gmail.com">javimixet@gmail.com</a> | <a class="screen" href="{{ site.baseurl }}/">Portfolio</a><a class="printi" href="{{ site.baseurl }}/">https://javimixet.github.io</a><span class="screen"> | </span><a class="screen" href="javascript:window.print()">Print</a>
 </div>
 
 
@@ -62,7 +62,7 @@ __Tejas Borja S.A__, Lliria (Spain)
 
 - Product design and production tests supervision
 - Ceramic tile mold designs and modifications (resin, aluminum and steel)
-- Machinery pieces design and modification (clay extrusion nozzles, silkscreen frames and designs for custom clay powder printer, steel cutters for removing clay burr from different models after molding)
+- Machinery pieces design and modification (clay extrusion nozzles, silkscreen frames and designs for custom clay powder printer, steel cutters for automatically removing clay burr from different models after molding)
 - Product documentation
 
 `2003-2018`
