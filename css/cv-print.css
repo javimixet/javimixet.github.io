@@ -210,3 +210,7 @@ strong {
 .screen {
 	display: none;
 }
+
+.printi {
+	display: inline;
+}
