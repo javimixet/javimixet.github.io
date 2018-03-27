@@ -4,7 +4,7 @@ title:  "CAD & 3D"
 thumbnail: /images/thumb-catfood.png
 caption: "Product Design"
 type: "Personal Project"
-intro: "Samples of my CAD and 3D works."
+intro: "CAD and 3D works."
 ---
 
 <div class="full-bleed-white" markdown="1">
