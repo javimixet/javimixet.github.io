@@ -16,7 +16,7 @@ Industrial Designer
 
 ## Personal Data
 
-__Full Name:__ Fco. Javier Ballester Tomas
+__Full Name:__ Francisco Javier Ballester Tomas
 
 __Birth Date:__ 1980-03-23
 
@@ -37,6 +37,11 @@ CAD, CAE, CAM, Computer Graphics, Programing.
 
 ## Education
 
+`1991-2004`
+Trumpet Player
+
+__Pivate lessons with trumpet players Rafael Carreño, Salvador Verdú and David Pastor__
+
 `1999-2003`
 Industrial Design
 
@@ -49,6 +54,16 @@ __Instituto de Terapia Gestalt de Valencia. Valencia (Spain)__
 
 
 ## Occupation
+
+`1998-1999`
+__Vall de Laguar town hall__, Vall de Laguar (Spain)
+
+- Waiter and manager of small swimming pool bar in summer months 
+
+`1999-2004`
+__Different Companies__, Pedreguer, Calpe, Ondara, Denia (Spain)
+
+- Summer months mason's peon and farm worker
 
 `2005-2006`
 __Nacher Albors__, Beniparrell (Spain)
@@ -70,7 +85,9 @@ __Freelance__
 
 - Graphic Design (business cards, webs, still and animated infographics, abstract posters and wallpapers)
 - CAD (plastic structural pieces for injection molding, wood cutting optimization, wood furniture structural analysis)
-- Electronic devices diagnosis and repair (basic soldering, Arduino programing, broken pieces reconstruction or substitution, firmware and drivers wipe and reload, Operating System repair or substitution)
+- Electronic devices diagnosis and repair (basic electronics soldering, Arduino programing, broken pieces reconstruction or substitution, firmware and drivers wipe and reload, Operating System repair or substitution)
+- Gestalt therapist
+- Street bands and amateur funk-jazz bands trumpet player
 
 ## Computer Skills
 
@@ -96,7 +113,11 @@ Windows (98, XP, 7, 8, 10), Linux (Lubuntu), Android (Marshmallow, Nougat).
 
 __Programing Languages (scripting and web design)__
  
-Python, HTML+CSS+JS, Arduino, OSL, Processing, C++.
+Python, HTML+CSS+JS, Arduino, OSL, Processing, C++, lilypond.
+
+__Sheet music__
+
+Sibelius, Finale, Musescore, Lilypond.
 
 
 ## Last Updated
