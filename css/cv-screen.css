@@ -128,6 +128,10 @@ h1 {
 
 h1+p { 
 	/*subtitle*/
+	position: relative;
+	margin-bottom: 0.7em;
+	left: 13%;
+	width: 65%;
 	font-style: italic;
 	font-size: 110%;
 }
@@ -173,9 +177,13 @@ a:hover {
 	text-decoration: none;
 }
 
-em {
-	font-weight: bold;
+h4 {
+	position: relative;
+	margin-bottom: 0.7em;
+	left: 13%;
+	width: 65%;
 	font-style: italic;
+    font-size: 110%;
 }
 
 strong {
@@ -193,14 +201,6 @@ strong {
 	text-align: right;
 	width: 20%;
 	/*margin-bottom: 50px;*/
-}
-
-.subt {
-	position: relative;
-	left: 13%;
-	margin-bottom: 0.7em;
-	margin-right: 0;
-	width: 65%;
 }
 
 .printi {

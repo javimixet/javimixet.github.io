@@ -4,10 +4,10 @@ title: Javi Ballester
 permalink: /cv/
 ---
 
-# Javi Ballester CV
+Javi Ballester CV
+=================
 
 Industrial Designer
-{: .subt }
 
 <div id="webaddress">
 <a class="screen" href="mailto:javimixet@gmail.com">Email</a><a class="printi" href="mailto:javimixet@gmail.com">javimixet@gmail.com</a> | <a class="screen" href="{{ site.baseurl }}/">Portfolio</a><a class="printi" href="{{ site.baseurl }}/">https://javimixet.github.io</a><span class="screen"> | </span><a class="screen" href="javascript:window.print()">Print</a>
@@ -113,7 +113,7 @@ Windows (98, XP, 7, 8, 10), Linux (Lubuntu), Android (Marshmallow, Nougat).
 
 __Programing Languages (scripting and web design)__
  
-Python, HTML+CSS+JS, Arduino, OSL, Processing, C++, lilypond.
+Python, HTML+CSS+JS, Arduino, OSL, Processing, C++, lilypond, markdown, bash.
 
 __Sheet music__
 
