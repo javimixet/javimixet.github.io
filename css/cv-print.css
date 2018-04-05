@@ -56,9 +56,10 @@ body {
 	font-size: 10pt;
 	line-height: 1.35em;
 	/*also written as...  font: normal normal 400 100%/1.5em;*/
-	font-family: Verdana, sans-serif;
+	font-family: 'Ubuntu', sans-serif;
 	/*margin-top: 1em;
 	margin-left: 1em;*/
+	max-width: 100%;
 }
 
 p {
@@ -73,13 +74,14 @@ code {
 	font: normal normal;
 	font-size: 60%;
 	/*line-height: 1em;*/
-	font-family: Menlo,monospace,sans-serif;
+	font-family: 'Ubuntu Mono', monospace;
 	color: #ccc;
 }
 
 p code {
 	position: absolute;
 	left: -11%;
+	page-break-after: avoid;
 }
 
 
@@ -92,11 +94,11 @@ ul {
 }
 
 /*uncomment to get dashes in the list*/
-/*li:before {
+li:before {
 	content: "-";
 	position: relative;
 	left: -0.25em;
-}*/
+}
 
 li {
 	/*second line indent*/
@@ -114,7 +116,7 @@ li ul {
 
 h1,h2,h3,h4 {
 	font-weight: 400;
-	font-family: Verdana, sans-serif;
+	font-family: 'Ubuntu', sans-serif;
 	width: 65%;
 }
 
@@ -130,7 +132,7 @@ h1+p {
 	/*subtitle*/
 	position: relative;
 	margin-bottom: 0.7em;
-	left: 13%;
+	left: 10%;
 	width: 65%;
 	font-style: italic;
 	font-size: 110%;
@@ -139,11 +141,12 @@ h1+p {
 h2 {
 	font-size: 1.1em;
 	color: #a00;
-	/*margin-top: 1em;*/
+	margin-top: 1em;
 	position: relative;
 	top: 1.2em;
 	text-align: right;
 	width: 18%;
+	page-break-before: auto;
 }
 
 
@@ -155,6 +158,7 @@ h3 {
 	top: 1.6em;
 	text-align: right;
 	width: 18%;
+	page-break-after: avoid;
 }
 
 a {
@@ -172,7 +176,7 @@ a:hover {
 	position: relative;
 	left: 10%;
 	color: #ccc;
-	font-family: Menlo,monospace,sans-serif;
+	font-family: 'Ubuntu Mono', monospace;
 	font-size: 80%;
 }
 
@@ -187,6 +191,7 @@ em {
 
 strong {
 	font-weight: bold;
+	page-break-after: avoid;
 }
 
 #ghbutton {

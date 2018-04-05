@@ -56,9 +56,11 @@ body {
 	font-size: 80%;
 	line-height: 1.5em;
 	/*also written as...  font: normal normal 400 100%/1.5em;*/
-	font-family: Verdana, sans-serif;
+	font-family: 'Ubuntu', sans-serif;
+	margin: auto;
 	margin-top: 1em;
-	margin-left: 1em;
+	max-width: 1280px;
+	background-color: #eee;
 }
 
 p {
@@ -66,7 +68,7 @@ p {
 	left: 33%;
 	margin-bottom: 0.7em;
 	margin-right: 0;
-	width: 65%;
+	width: 55%;
 }
 
 code {
@@ -86,7 +88,7 @@ p code {
 ul { 
 	position: relative;
 	left: 33%;
-	width: 65%;
+	width: 55%;
 	margin-bottom: 1.5em;
 	margin-top: -0.5em;
 }
@@ -114,7 +116,7 @@ li ul {
 
 h1,h2,h3,h4 {
 	font-weight: 400;
-	font-family: Verdana, sans-serif;
+	font-family: 'Ubuntu', sans-serif;
 	width: 65%;
 }
 
@@ -155,6 +157,31 @@ h3 {
 	width: 20%;
 }
 
+h4 {
+	font-size: 1.8em;
+	color: #a00;
+	margin-top: 2em;
+	margin-bottom: 1em;
+	position: relative;
+	top: 1.4em;
+	text-align: right;
+	width: 20%;
+}
+
+h5 {
+	font-size: 1.4em;
+	font-style: italic;
+	font-weight: bold;
+	line-height: 2em;
+	margin-top: 2em;
+	/*margin-bottom: 0.5em;*/
+	position: relative;
+	top: 1.7em;
+	text-align: right;
+	width: 20%;
+}
+
+
 a {
 	color: inherit;
 	/*text-decoration:none*/
@@ -168,22 +195,14 @@ a:hover {
 	margin-top: 1em;
 	position: relative;
 	left: 13%;
+	width: 55%;
 	color: #aaa;
 	font-family: Menlo,monospace,sans-serif;
-	font-size: 80%;
+	font-size: 100%;
 }
 
 #webaddress a {
 	text-decoration: none;
-}
-
-h4 {
-	position: relative;
-	margin-bottom: 0.7em;
-	left: 13%;
-	width: 65%;
-	font-style: italic;
-    font-size: 110%;
 }
 
 strong {
@@ -206,7 +225,12 @@ strong {
 .printi {
 	display: none;
 }
-/*
-@media only screen and (max-width: 480px) {
-	make one column somehow...
-}*/
+
+#thumbs {
+	position: relative;
+	left: 33%;
+	margin-right: 0;
+	width: 55%;
+	overflow: hidden;
+}
+
