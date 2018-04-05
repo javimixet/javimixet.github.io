@@ -10,7 +10,7 @@ Javi Ballester
 Portfolio
 
 <div id="webaddress">
-<a class="screen" href="{{ site.baseurl }}">Printable CV</a>
+<a class="screen" href="{{ site.baseurl }}/">Printable CV</a>
 </div>
 
 ## Image Samples
