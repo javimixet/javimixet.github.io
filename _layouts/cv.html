@@ -8,6 +8,10 @@
 
   <title>{% if page.title %}{{ page.title }}{% endif %}</title>
 
+  <link href="https://fonts.googleapis.com/css?family=Ubuntu+Mono|Ubuntu:400,400i,700,700i" rel="stylesheet">
+
+  <link rel="icon" href="{{ "/favicon.ico" | prepend: site.baseurl }}" />
+
   <!-- smart phone css  -->
   <link href="{{ "/css/cv-phone.css" | prepend: site.baseurl }}" rel="stylesheet" type="text/css" media="all and (min-width: 0px) and (max-width: 480px)" />
 
@@ -16,21 +20,23 @@
 
   <!-- Desktop -->
   <link href="{{ "/css/cv-screen.css" | prepend: site.baseurl }}" rel="stylesheet" type="text/css" media="screen and (min-width: 801px)">
-
-  <!-- <link href="{{ "/css/main.css" | prepend: site.baseurl }}" type="text/css" rel="stylesheet" media="screen"> -->
   
+  <!-- Print -->
   <link href="{{ "/css/cv-print.css" | prepend: site.baseurl }}" type="text/css" rel="stylesheet" media="print">
 
-  <link rel="icon" href="http://javimixet.github.io/favicon.ico?v=2" />
-
-  <link href="https://fonts.googleapis.com/css?family=Ubuntu+Mono|Ubuntu:400,400i,700,700i" rel="stylesheet">
+  <!-- Extra_css -->
+  {% for css_name in page.extra_css %}<link rel="stylesheet" href="{{ site.baseurl }}/css/{{ css_name }}">{% endfor %}
 
 </head>
+
 <body>
   <div id="main">
     <div id="content">
-    <div class="photo"><img src="{{ "/images/Jo_2017.jpg" | prepend: site.baseurl }}" alt="Photo" style="border-radius: 5px;vertical-align: text-top; width: 100px;"/></div>
-    {{ content }}
+
+      <div class="photo"><img src="{{ "/images/Jo_2017.jpg" | prepend: site.baseurl }}" alt="Photo" style="border-radius: 5px;vertical-align: text-top; width: 100px;"/></div>
+      
+      {{ content }}
+
     </div>
   </div>
 </body>

@@ -1,7 +1,8 @@
 ---
-layout: portfolio
+layout: cv
 title: Javi Ballester Portfolio
 permalink: portfolio/
+extra_css: portfolio.css
 ---
 
 Javi Ballester

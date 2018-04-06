@@ -8,10 +8,7 @@ Javi Ballester
 
 Curriculum Vitae
 
-<div id="webaddress">
-<a class="screen" href="{{ site.baseurl }}/portfolio/">Portfolio</a><a class="printi" href="{{ site.baseurl }}/portfolio/">{{ site.baseurl }}/portfolio/</a><span class="screen"> | </span><a class="screen" href="javascript:window.print()">Print</a>
-</div>
-
+{% include /nav.html %}
 
 ## Personal Data
 
