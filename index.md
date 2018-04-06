@@ -9,7 +9,7 @@ Javi Ballester
 Curriculum Vitae
 
 <div id="webaddress">
-<a class="screen" href="mailto:javimixet@gmail.com">Email</a><a class="printi" href="mailto:javimixet@gmail.com">javimixet@gmail.com</a> | <a class="screen" href="{{ site.baseurl }}/portfolio/">Portfolio</a><a class="printi" href="{{ site.baseurl }}/portfolio/">https://javimixet.github.io</a><span class="screen"> | </span><a class="screen" href="javascript:window.print()">Print</a>
+<a class="screen" href="{{ site.baseurl }}/portfolio/">Portfolio</a><span class="screen"> | </span><a class="screen" href="javascript:window.print()">Print</a>
 </div>
 
 
@@ -20,6 +20,8 @@ __Full Name:__ Francisco Javier Ballester Tomas
 __Birth Date:__ 1980-03-23
 
 __Mobile Phone:__ (34) 665 681 120
+
+__Email:__ javimixet@gmail.com
 
 __Languages:__ Spanish (native), Catalan (native), English (good command)
  

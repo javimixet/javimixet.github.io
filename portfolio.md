@@ -47,13 +47,13 @@ Portfolio
 </a>{% endif %}{% endfor %}
 </div>
 
-### 2006
+<!-- ### 2006
 
 <div id="thumbs">
 {% for image in site.static_files %}{% if image.path contains '/images/mostra/06' %}<a href="{{ site.baseurl }}{{ image.path }}" target="_blank">
 <span class="w3-hover-opacity" style="background-image:url('{{ site.baseurl }}/images/thumbs/thumb_{{ image.name | remove: image.extname }}.png');"></span>
 </a>{% endif %}{% endfor %}
-</div>
+</div> -->
 
 ### 2007
 
