@@ -14,7 +14,7 @@ Curriculum Vitae
 
 ## Image samples
 
-{% assign years = "17, 15, 14, 13, 12, 09, 08, 06, 05, 04, 03, 02" | split: ", " %}{% for year in years %}{% capture cont %}/images/mostra/{{ year }}{% endcapture %}
+{% assign years = "17, 15, 14, 13, 12, 09, 08, 07, 05, 04, 03, 02" | split: ", " %}{% for year in years %}{% capture cont %}/images/mostra/{{ year }}{% endcapture %}
 ### 20{{year}}
 <div id="thumbs">
 {% for image in site.static_files %}{% if image.path contains cont %}
