@@ -55,24 +55,24 @@ Trumpet Player
 **Freelance**
 
 - Graphic Design (business cards, webs, still and animated infographics, abstract posters and wallpapers)
-- CAD (plastic structural pieces for injection molding, wood cutting optimization, wood, plastic and steel furniture 3d modeling and structural analysis)
-- Electronic devices diagnosis and repair (basic electronics soldering, Arduino programing, faulty pieces reconstruction or substitution, firmware and drivers wipe and reload, Operating System repair or substitution)
-- Gestalt therapist
+- CAD/CAE (plastic structural pieces for injection molding, wood cutting optimization, wood, plastic and steel structures 3d modeling and structural analysis, photo-realistic and non-photo-realistic rendering of building interiors, furniture and other products)
+- Electronic engineering (devices diagnosis and repair, basic electronics soldering, Arduino programing, faulty pieces reconstruction or substitution, firmware and drivers wipe and reload, Operating System repair or substitution)
+- Gestalt therapy
 <!-- - Street bands and amateur funk-jazz bands trumpet player -->
 
 `2006-2007`
 **Tejas Borja S.A**, Lliria (Spain)
 
-- Product design
-- Mechanical engineering (nozzles for clay extrusion machines, silkscreen frames and designs for custom clay powder printer, steel cutters for automatically removing clay burr from different models after molding, adaptation of molds to different presses)
-- Product documentation
+- Product design (ceramic tiles market studies and molds)
+- Mechanical engineering (nozzles for clay extrusion machines, frames and designs optimization for custom clay powder silkscreen printer, steel cutters for automatically removing clay burr from different models after molding, adaptation of molds to different presses)
+- Product documentation (instruction manuals, planes of product, magazine articles, 3d renders)
 
 `2005-2006`
 **Nacher Albors**, Beniparrell (Spain)
 
-- Product design
-- Catalog design
-- Stand for Valencia International Furniture Fair 2005
+- Product design <!-- () -->
+- Catalog design 
+- Stand for Valencia International Furniture Fair 2005 <!-- (diseño, calculos y planimetria para decorado de conglomerado y estructura de tubo de aluminio) -->
 
 <!-- `1999-2004`
 **Different Companies**, Pedreguer, Calpe, Ondara, Denia (Spain)
