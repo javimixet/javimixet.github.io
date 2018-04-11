@@ -56,7 +56,7 @@ Trumpet Player
 
 - Graphic Design (business cards, webs, still and animated infographics, abstract posters and wallpapers)
 - CAD/CAE (plastic structural pieces for injection molding, wood cutting optimization, wood, plastic and steel structures 3d modeling and structural analysis, photo-realistic and non-photo-realistic rendering of building interiors, furniture and other products)
-- Electronic engineering (devices diagnosis and repair, basic electronics soldering, Arduino programing, faulty pieces reconstruction or substitution, firmware and drivers wipe and reload, Operating System repair or substitution)
+- Electrical/Mechanical engineering (home appliances, mobile and landline phones, e-readers, computers and power tools diagnosis and repair; basic electronics soldering, Arduino programing, faulty pieces reconstruction or substitution, firmware and drivers wipe and reload, Operating System repair or substitution)
 - Gestalt therapy
 <!-- - Street bands and amateur funk-jazz bands trumpet player -->
 
