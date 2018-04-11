@@ -59,6 +59,7 @@ body {
 	font-family: 'Ubuntu', sans-serif;
 	margin: auto;
 	margin-top: 1em;
+	margin-bottom: 5em;
 	max-width: 1280px;
 	background-color: #eee;
 }
@@ -216,7 +217,7 @@ strong {
 .photo {
 	float: left;
 	position: relative;
-	top: 0.8em;
+	/*top: 0.8em;*/
 	text-align: right;
 	width: 20%;
 	/*margin-bottom: 50px;*/
