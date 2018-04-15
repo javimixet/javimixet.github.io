@@ -126,14 +126,14 @@ h1 {
 	font-size: 3em;
 	line-height: 1em;
 	position: relative;
-	left: 13%;
+	left: 33%;
 }
 
 h1+p { 
 	/*subtitle*/
 	position: relative;
 	margin-bottom: 0.7em;
-	left: 13%;
+	left: 33%;
 	width: 65%;
 	font-style: italic;
 	font-size: 110%;
@@ -142,7 +142,7 @@ h1+p {
 h2 {
 	font-size: 1.1em;
 	color: #a00;
-	margin-top: 3em;
+	margin-top: 2em;
 	position: relative;
 	top: 1.4em;
 	text-align: right;
@@ -195,7 +195,7 @@ a:hover {
 #webaddress {
 	margin-top: 1em;
 	position: relative;
-	left: 13%;
+	left: 33%;
 	width: 55%;
 	color: #aaa;
 	font-family: Menlo,monospace,sans-serif;

@@ -131,7 +131,7 @@ h1 {
 	font-size: 2.8em;
 	line-height: 1em;
 	position: relative;
-	left: 5%;
+	left: 25%;
 	width: 70%;
 }
 
@@ -139,7 +139,7 @@ h1+p {
 	/*subtitle*/
 	position: relative;
 	margin-bottom: 0.7em;
-	left: 5%;
+	left: 25%;
 	width: 65%;
 	font-style: italic;
 	font-size: 110%;
@@ -185,7 +185,7 @@ a:hover {
 #webaddress {
 	margin-top: 1em;
 	position: relative;
-	left: 5%;
+	left: 25%;
 	width: 80%;
 	color: #aaa;
 	font-family: 'Ubuntu Mono', monospace;

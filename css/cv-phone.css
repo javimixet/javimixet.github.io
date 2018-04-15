@@ -125,7 +125,7 @@ h1,h2,h3,h4,h5 {
 }
 
 h1 {
-	text-align: right;
+	/*text-align: right;*/
 	font-size: 1.9em;
 	line-height: 1em;
 	position: relative;
@@ -135,7 +135,7 @@ h1 {
 
 h1+p { 
 	/*subtitle*/
-	text-align: right;
+	/*text-align: right;*/
 	position: relative;
 	margin-bottom: 0.7em;
 	/*left: 13%;
@@ -202,7 +202,7 @@ a:hover {
 }
 
 #webaddress {
-	text-align: right;
+	/*text-align: right;*/
 	margin-top: 1em;
 	margin-bottom: 3em;
 	position: relative;
