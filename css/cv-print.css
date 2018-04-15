@@ -125,14 +125,14 @@ h1 {
 	font-size: 3em;
 	line-height: 1em;
 	position: relative;
-	left: 10%;
+	left: 28%;
 }
 
 h1+p { 
 	/*subtitle*/
 	position: relative;
 	margin-bottom: 0.7em;
-	left: 10%;
+	left: 28%;
 	width: 65%;
 	font-style: italic;
 	font-size: 110%;
@@ -146,7 +146,6 @@ h2 {
 	top: 1.2em;
 	text-align: right;
 	width: 18%;
-	page-break-before: auto;
 }
 
 
@@ -158,7 +157,6 @@ h3 {
 	top: 1.6em;
 	text-align: right;
 	width: 18%;
-	page-break-after: avoid;
 }
 
 a {
@@ -174,7 +172,7 @@ a:hover {
 	margin-top: 1em;
 	margin-bottom: 3em;
 	position: relative;
-	left: 10%;
+	left: 28%;
 	color: #ccc;
 	font-family: 'Ubuntu Mono', monospace;
 	font-size: 80%;
@@ -214,4 +212,8 @@ strong {
 
 .printi {
 	display: inline;
+}
+
+#pgbrk {
+	page-break-before: always;
 }
