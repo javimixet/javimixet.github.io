@@ -42,7 +42,7 @@ Gestalt Theraphy
 **Instituto de Terapia Gestalt de Valencia. Valencia (Spain)** -->
 
 `1999-2003`
-Industrial Design
+Industrial Design (FCP left)
 
 **Universidad Politécnica de Valencia. Valencia (Spain).**
 
