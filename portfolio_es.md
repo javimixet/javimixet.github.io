@@ -1,7 +1,7 @@
 ---
 layout: cv
 title: Javi Ballester Portfolio
-permalink: portfolio/
+permalink: portfolio-es/
 extra_css: portfolio.css
 ---
 
@@ -11,10 +11,10 @@ Javi Ballester
 Curriculum Vitae
 
 <div id="webaddress">
-<a class="screen" href="/">Printable CV</a>
+<a class="screen" href="/es/">CV imprimible</a>
 </div>
 
-## Image samples
+## Imágenes de trabajos
 
 {% assign years = "17, 15, 14, 13, 12, 09, 08, 07, 05, 04, 03, 02" | split: ", " %}{% for year in years %}{% capture cont %}/images/mostra/{{ year }}{% endcapture %}
 ### 20{{year}}
@@ -28,8 +28,8 @@ Curriculum Vitae
 </div>
 {% endfor %}
 
-## Last update
+## Última actualización
 
-April 2018
+Abril 2018
 
 
