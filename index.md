@@ -11,7 +11,7 @@ Javi Ballester
 
 Curriculum Vitae
 
-{% include /nav.html %}
+<!-- {% include /nav.html %} -->
 
 ## Personal Data
 
