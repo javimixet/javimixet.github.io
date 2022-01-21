@@ -63,7 +63,7 @@ Trumpet Player
 <!-- - Gestalt therapy -->
 <!-- - Street bands and amateur funk-jazz bands trumpet player -->
 
-`<!-- 2006-2007`-->
+<!-- `2006-2007`-->
 
 **Tejas Borja S.A**, Lliria (Spain)
 
