@@ -41,7 +41,7 @@ Gestalt Theraphy
 
 **Instituto de Terapia Gestalt de Valencia. Valencia (Spain)** -->
 
-`1999-2003`
+<!-- `1999-2003` -->
 Industrial Design (FCP left)
 
 **Universidad Politécnica de Valencia. Valencia (Spain).**
@@ -52,7 +52,7 @@ Trumpet Player
 
 ## Occupation
 
-`2003-2018`
+<!-- `2003-2018`-->
 **Freelance**
 
 - CAD/CAE (draftsman, plastic structural pieces for injection molding, wood cutting optimization, wood, plastic and steel structures 3d modeling and structural analysis, photo-realistic and non-photo-realistic rendering of building interiors, furniture and other products)
@@ -61,14 +61,14 @@ Trumpet Player
 <!-- - Gestalt therapy -->
 <!-- - Street bands and amateur funk-jazz bands trumpet player -->
 
-`2006-2007`
+`<!-- 2006-2007`-->
 **Tejas Borja S.A**, Lliria (Spain)
 
 - Product design (ceramic tile models market studies, new product designs and redesign of existing ones)
 - Mechanical engineering (clay tile molds reverse engineering, design, modification and adaptation to different presses, nozzles and blades for clay extrusion machines, frames and designs optimization for custom clay powder silkscreen printer, adaptation of steel cutters for automatically removing clay burr after molding)
 - Product documentation (instruction manuals, planes of product, magazine articles, 3D renders)
 
-`2005-2006`
+<!-- `2005-2006`-->
 **Nacher Albors**, Beniparrell (Spain)
 
 - Product design (Upholstered furniture market studies, new product designs and redesign and modularization of existing ones)
@@ -148,4 +148,4 @@ Sibelius, Finale, Musescore, Lilypond. -->
 
 ## Last Updated
 
-April 2018
+January 2022
