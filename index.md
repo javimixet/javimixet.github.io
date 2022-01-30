@@ -22,7 +22,7 @@ Curriculum Vitae
 
 **Teléfono:** 665 681 120
 
-**Email:** javimixet@gmail.com
+**Email:** javibato@hotmail.com
 
 **Carnet de conducir:** B
 
