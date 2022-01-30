@@ -60,7 +60,7 @@ Trumpet Player
 `2003-2021`
 **Freelance**
 
-- CAD/CAE (delineante, diseño de piezas de plástico para inyección, optimización de corte de madera, análisis estructural, modelado y renderizado, tanto fotorealístico como no-fotorealístico, de interiores, muebles, maquinaria industrial y otros productos)
+- CAD/CAE (delineación, diseño de piezas de plástico para inyección, optimización de procesos, análisis estructural, modelado y renderizado, de interiores, muebles, maquinaria industrial y otros productos)
 - Electricidad/Electrónica (reparación y diagnóstico de electrodomésticos, e-readers, teléfonos móviles y ordenadores, reconstrucción, optimización del diseño o sustitución de piezas defectuosas)
 - Diseño gráfico (tarjetas de visita, webs, infografías, rótulos y posters)
 <!-- - Terapia Gestalt -->
