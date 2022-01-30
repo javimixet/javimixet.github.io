@@ -77,7 +77,7 @@ Trumpet Player
 **Nacher Albors**, Beniparrell (Spain)
 
 - Diseño de producto (estudios de mercado de mueble tapizado, diseño de nuevo producto y rediseño y modularización de producto existente)
-- Stands para la Feria Internacional del Mueble (diseño, calculos y planimetria para decorado de conglomerado, letras de EPS y estructura de tubo de aluminio para distribución de focos)
+- Stands para Feria Internacional del Mueble (diseño, calculos y planimetria para decorado de conglomerado, letras de EPS y estructura de tubo de aluminio para distribución de focos)
 - Diseño Gráfico (catálogos, documentación y presentación de la gama completa de productos y variaciones de estos y preparación para imprenta)
 - Documentación de producto (manuales de instrucciones, planos de producto, renders 3D)
 
@@ -124,7 +124,7 @@ Creatividad
 
 **CAD, CAE**
 
-SolidWorks, Inventor, Onshape, OpenSCAD, AutoCAD.
+SolidWorks, Inventor, Onshape, Onscale, OpenSCAD, AutoCAD.
 
 **Gráficos 3D**
 
@@ -140,7 +140,7 @@ Microsoft Office, LibreOffice, Google Docs, Adobe Acrobat.
 
 **Sistemas Operativos (instalacíón, mantenimiento y reparación)**
  
-Windows (98, XP, 7, 8, 10), Linux (Lubuntu), Android (Marshmallow, Nougat).
+Windows (98, XP, 7, 8, 10), Linux (Ubuntu, Debian, Arch, Android).
 
 **Lenguajes de programación (scripting y diseño web mayoritariamente)**
  
