@@ -1,7 +1,8 @@
 ---
 layout: cv
-title: Javi Ballester CV
-# extra_css: photo.css
+title: CV Javi Ballester
+<!-- permalink: es/ -->
+<!-- extra_css: photo.css -->
 ---
 
 <!-- {% include /photo.html %} -->
@@ -11,39 +12,42 @@ Javi Ballester
 
 Curriculum Vitae
 
-<!-- {% include /nav.html %} -->
+<!-- {% include /nav-es.html %} -->
 
-## Personal Data
+## Datos Personales
 
-**Full Name:** Francisco Javier Ballester Tomas
+**Nombre completo:** Francisco Javier Ballester Tomás
 
-**Birth Date:** 1980-03-23
+**Fecha de nacimiento:** 1980-03-23
 
-**Mobile Phone:** (34) 665 681 120
+**Teléfono:** 665 681 120
 
 **Email:** javimixet@gmail.com
+
+**Carnet de conducir:** B
+
+**Coche propio:** sí
  
 
-### Specialized in
+### Especializado en
 
-Computer Assisted Design/Engineering and Computer Graphics.
-
-
-### Interests
-
-CAD, CAE, CAM, CG, Electronics, Programing and web development.
+Diseño/Ingeniería/Gráficos Asistidos por Ordenador.
 
 
-## Education
+### Intereses
 
-<!-- `2005-2011`
-Gestalt Theraphy
+CG, CAD, CAE, CAM, Electrónica, Programación y Diseño Web.
 
-**Instituto de Terapia Gestalt de Valencia. Valencia (Spain)** -->
 
-<!-- `1999-2003` -->
+## Educación
 
-Industrial Design
+<!-- `2005-2011` -->
+<!-- Terapia Gestalt -->
+
+<!-- **Instituto de Terapia Gestalt de Valencia. Valencia (Spain)** -->
+
+`1999-2003`
+Ingeniería técnica en Diseño Industrial
 
 **Universidad Politécnica de Valencia. Valencia (Spain).**
 
@@ -51,34 +55,31 @@ Industrial Design
 Trumpet Player
 **Private lessons with trumpet players Rafael Carreño, Salvador Verdú and David Pastor** -->
 
-## Occupation
+## Ocupación
 
-<!-- `2003-2018`-->
-
+`2003-2021`
 **Freelance**
 
-- CAD/CAE (draftsman, plastic structural pieces for injection molding, wood cutting optimization, wood, plastic and steel structures 3d modeling and structural analysis, photo-realistic and non-photo-realistic rendering of building interiors, furniture and other products)
-- Electrical/Mechanical engineering (home appliances, mobile and landline phones, e-readers, computers and power tools diagnosis and repair, faulty pieces reconstruction, design optimization or substitution)
-- Graphic Design (business cards, webs, still and animated infographics, abstract posters and wallpapers)
-<!-- - Gestalt therapy -->
+- CAD/CAE (delineante, diseño de piezas de plástico para inyección, optimización de corte de madera, análisis estructural, modelado y renderizado, tanto fotorealístico como no-fotorealístico, de interiores, muebles, maquinaria industrial y otros productos)
+- Electricidad/Electrónica (reparación y diagnóstico de electrodomésticos, e-readers, teléfonos móviles y ordenadores, reconstrucción, optimización del diseño o sustitución de piezas defectuosas)
+- Diseño gráfico (tarjetas de visita, webs, infografías, rótulos y posters)
+<!-- - Terapia Gestalt -->
 <!-- - Street bands and amateur funk-jazz bands trumpet player -->
 
-<!-- `2006-2007`-->
-
+`2006-2007`
 **Tejas Borja S.A**, Lliria (Spain)
 
-- Product design (ceramic tile models market studies, new product designs and redesign of existing ones)
-- Mechanical engineering (clay tile molds reverse engineering, design, modification and adaptation to different presses, nozzles and blades for clay extrusion machines, frames and designs optimization for custom clay powder silkscreen printer, adaptation of steel cutters for automatically removing clay burr after molding)
-- Product documentation (instruction manuals, planes of product, magazine articles, 3D renders)
+- Diseño de producto (estudios de mercado, diseño de nuevo producto y rediseño de producto existente)
+- Ingeniería mecánica (ingeniería inversa, modificaciones y adaptación a diferentes presas de moldes para teja cerámica, boquillas de extrusión, marcos y optimización de diseños para serigrafía, adaptación de cuchillas de corte de rebabas a diferentes moldes)
+- Documentación de producto (manuales de instrucciones, planos de producto, artículos para revista, renders 3D)
 
-<!-- `2005-2006`-->
-
+`2003-2006`
 **Nacher Albors**, Beniparrell (Spain)
 
-- Product design (Upholstered furniture market studies, new product designs and redesign and modularization of existing ones)
-- Stand for Valencia International Furniture Fair 2005 (design, calculations and planimetry for chipboard decoration, EPS letters and aluminum tube structure for spotlight distribution)
-- Graphic Design (Catalog design: documentation and presentation of full range of product variation possibilities and preparation for printing)
-- Product documentation (instruction manuals, planes of product, 3D renders)
+- Diseño de producto (estudios de mercado de mueble tapizado, diseño de nuevo producto y rediseño y modularización de producto existente)
+- Stands para la Feria Internacional del Mueble (diseño, calculos y planimetria para decorado de conglomerado, letras de EPS y estructura de tubo de aluminio para distribución de focos)
+- Diseño Gráfico (catálogos, documentación y presentación de la gama completa de productos y variaciones de estos y preparación para imprenta)
+- Documentación de producto (manuales de instrucciones, planos de producto, renders 3D)
 
 <!-- `1999-2004`
 **Different Companies**, Pedreguer, Calpe, Ondara, Denia (Spain)
@@ -91,45 +92,45 @@ Trumpet Player
 - Waiter and manager of small swimming pool bar in summer months  -->
 
 
-## Skills
+## Conocimientos
 {: #pgbrk}
 
-### Language
+### Idiomas
 
-Spanish (native)
+Español (nativo)
 
-Catalan (native)
+Catalán (nativo)
 
-English (good command)
+Inglés (buen dominio)
 
-### Personal
+### Personales
 
-Quick Learning
+Rápido aprendizaje
 
-Conflict Resolution
+Resolución de conflictos
 
-Adaptability
+Adaptabilidad
 
-Analytical skills
+Capacidad analítica
 
-Conscientiousness
+Dedicación
 
-Teamwork
+Trabajo en equipo
 
-Creativity
+Creatividad
 
 
-### Computer skills
+### Ordenadores
 
 **CAD, CAE**
 
 SolidWorks, Inventor, Onshape, OpenSCAD, AutoCAD.
 
-**3D Graphics**
+**Gráficos 3D**
 
 3DStudio, Blender.
 
-**2D Graphics**
+**Gráficos 2D**
  
 Photoshop, Gimp, Corel, Freehand, Adobe Ilustrator, Inkscape, Adobe After Effects, Adobe Premiere.
 
@@ -137,11 +138,11 @@ Photoshop, Gimp, Corel, Freehand, Adobe Ilustrator, Inkscape, Adobe After Effect
  
 Microsoft Office, LibreOffice, Google Docs, Adobe Acrobat.
 
-**OS (usage, repair and installation)**
+**Sistemas Operativos (instalacíón, mantenimiento y reparación)**
  
 Windows (98, XP, 7, 8, 10), Linux (Lubuntu), Android (Marshmallow, Nougat).
 
-**Programing Languages (scripting and web design mostly)**
+**Lenguajes de programación (scripting y diseño web mayoritariamente)**
  
 Python, HTML+CSS+JS, Arduino, OSL, Processing, markdown, bash.
 
@@ -150,6 +151,6 @@ Python, HTML+CSS+JS, Arduino, OSL, Processing, markdown, bash.
 Sibelius, Finale, Musescore, Lilypond. -->
 
 
-## Last Updated
+## Última actualización
 
-January 2022
+Enero 2022
