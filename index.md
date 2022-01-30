@@ -49,7 +49,7 @@ CG, CAD, CAE, CAM, Electrónica, Programación y Diseño Web.
 `1999-2003`
 Ingeniería técnica en Diseño Industrial
 
-**Universidad Politécnica de Valencia. Valencia (Spain).**
+**Universidad Politécnica de Valencia.**
 
 <!-- `1991-2004`
 Trumpet Player
@@ -61,7 +61,7 @@ Trumpet Player
 **Freelance**
 
 - CAD/CAE (delineación, diseño de piezas de plástico para inyección, optimización de procesos, análisis estructural, modelado y renderizado, de interiores, muebles, maquinaria industrial y otros productos)
-- Electricidad/Electrónica (reparación y diagnóstico de electrodomésticos, e-readers, teléfonos móviles y ordenadores, reconstrucción, optimización del diseño o sustitución de piezas defectuosas)
+- Electricidad/Electrónica (diagnóstico y reparación de electrodomésticos, e-readers, teléfonos móviles y ordenadores, reconstrucción, optimización del diseño o sustitución de piezas defectuosas)
 - Diseño gráfico (tarjetas de visita, webs, infografías, rótulos y posters)
 <!-- - Terapia Gestalt -->
 <!-- - Street bands and amateur funk-jazz bands trumpet player -->
@@ -77,8 +77,8 @@ Trumpet Player
 **Nacher Albors**, Beniparrell (Spain)
 
 - Diseño de producto (estudios de mercado de mueble tapizado, diseño de nuevo producto y rediseño y modularización de producto existente)
-- Stands para Feria Internacional del Mueble (diseño, calculos y planimetria para decorado de conglomerado, letras de EPS y estructura de tubo de aluminio para distribución de focos)
-- Diseño Gráfico (catálogos, documentación y presentación de la gama completa de productos y variaciones de estos y preparación para imprenta)
+- Stands para Feria Internacional del Mueble (diseño, calculos y planimetria para decorado de conglomerado, letras de EPS y estructura de tubo de aluminio para iluminación)
+- Diseño Gráfico (catálogos, documentación y presentación de la gama completa de productos y variaciones de estos, preparación para imprenta)
 - Documentación de producto (manuales de instrucciones, planos de producto, renders 3D)
 
 <!-- `1999-2004`
@@ -105,7 +105,7 @@ Inglés (buen dominio)
 
 ### Personales
 
-Rápido aprendizaje
+Aprendizaje rápido
 
 Resolución de conflictos
 
