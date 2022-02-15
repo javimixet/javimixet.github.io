@@ -2,7 +2,7 @@
 layout: cv
 title: CV Javi Ballester
 <!-- permalink: es/ -->
-<!-- extra_css: photo.css -->
+extra_css: photo.css
 ---
 
 <!-- {% include /photo.html %} -->
