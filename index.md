@@ -57,7 +57,7 @@ Trumpet Player
 
 ## Ocupación
 
-`2007-2021`
+`2007-2022`
 **Freelance**
 
 - CAD/CAE (delineación, diseño de piezas de plástico para inyección, optimización de procesos, análisis estructural, modelado y renderizado, de interiores, muebles, maquinaria industrial y otros productos)
@@ -153,4 +153,4 @@ Sibelius, Finale, Musescore, Lilypond. -->
 
 ## Última actualización
 
-Enero 2022
+Febrero 2022
