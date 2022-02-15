@@ -120,7 +120,7 @@ Trabajo en equipo
 Creatividad
 
 
-### Ordenadores
+### Informáticos
 
 **CAD, CAE**
 
