@@ -57,6 +57,12 @@ Trumpet Player
 
 ## Ocupación
 
+`2022-2023`
+**Salins**
+
+- CAD/CAE (modelado 3D de estructuras industriales mediante fotogrametría,
+  delineación, optimización de procesos, maquinaria industrial).
+
 `2003-2021`
 **Freelance**
 
