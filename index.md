@@ -2,7 +2,7 @@
 layout: cv
 title: CV Javi Ballester
 <!-- permalink: es/ -->
-<!-- extra_css: photo.css -->
+extra_css: photo.css
 ---
 
 <!-- {% include /photo.html %} -->
@@ -63,7 +63,7 @@ Trumpet Player
 - CAD/CAE (modelado 3D de estructuras industriales mediante fotogrametría,
   delineación, optimización de procesos, maquinaria industrial).
 
-`2003-2021`
+`2007-2022`
 **Freelance**
 
 - CAD/CAE (delineación, diseño de piezas de plástico para inyección, optimización de procesos, análisis estructural, modelado y renderizado, de interiores, muebles, maquinaria industrial y otros productos)
@@ -126,7 +126,7 @@ Trabajo en equipo
 Creatividad
 
 
-### Ordenadores
+### Informáticos
 
 **CAD, CAE**
 
@@ -159,4 +159,4 @@ Sibelius, Finale, Musescore, Lilypond. -->
 
 ## Última actualización
 
-Enero 2022
+Febrero 2022
