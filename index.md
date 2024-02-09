@@ -1,13 +1,13 @@
 ---
 layout: cv
-title: CV Javi Ballester
+title: CV Javier Ballester
 <!-- permalink: es/ -->
 extra_css: photo.css
 ---
 
 <!-- {% include /photo.html %} -->
 
-Javi Ballester
+Javier Ballester
 ==============
 
 Curriculum Vitae
@@ -61,7 +61,7 @@ Trumpet Player
 **Salins**
 
 - CAD/CAE (modelado 3D de estructuras industriales mediante fotogrametría,
-  delineación, optimización de procesos, maquinaria industrial).
+  delineación, optimización de procesos, maquinaria industrial, gestión de proyectos).
 
 `2007-2022`
 **Freelance**
