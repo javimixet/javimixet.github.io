@@ -22,7 +22,7 @@ Curriculum Vitae
 
 **Teléfono:** 665 681 120
 
-**Email:** javibato@hotmail.com
+**Email:** jbt.trb@gmail.com
 
 **Carnet de conducir:** B
 
@@ -31,7 +31,7 @@ Curriculum Vitae
 
 ### Especializado en
 
-Diseño/Ingeniería/Gráficos Asistidos por Ordenador.
+Diseño Industrial/Gráficos Asistidos por Ordenador.
 
 
 ### Intereses
