@@ -57,7 +57,7 @@ Trumpet Player
 
 ## Ocupación
 
-`2022-2023`
+`2022-2024`
 **Salins**
 
 - CAD/CAE (modelado 3D de estructuras industriales mediante fotogrametría,
@@ -159,4 +159,4 @@ Sibelius, Finale, Musescore, Lilypond. -->
 
 ## Última actualización
 
-Febrero 2022
+Marzo 2024
