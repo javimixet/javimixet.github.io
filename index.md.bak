@@ -1,0 +1,157 @@
+---
+layout: cv
+title: CV Javier Ballester
+<!-- permalink: es/ -->
+extra_css: photo.css
+---
+
+{% include /photo.html %}
+
+Javier Ballester
+==============
+
+Curriculum Vitae
+
+<!--{% include /nav-es.html %}-->
+
+## Datos Personales
+
+**Nombre completo:** Francisco Javier Ballester Tomás
+
+**Fecha de nacimiento:** 1980-03-23
+
+**Teléfono:** 665 681 120
+
+**Email:** jbt.trb@gmail.com
+
+**Carnet de conducir:** B
+
+**Coche propio:** sí
+
+
+### Especializado en
+
+Diseño Industrial/Gráficos Asistidos por Ordenador.
+
+
+### Intereses
+
+CAD, CAE, CAM, Electrónica, Programación, CG y Diseño Web.
+
+
+## Educación
+
+<!-- `2005-2011` -->
+<!-- Terapia Gestalt -->
+
+<!-- **Instituto de Terapia Gestalt de Valencia. Valencia (Spain)** -->
+
+`1999-2003`
+Ingeniería técnica en Diseño Industrial
+
+**Universidad Politécnica de Valencia.**
+
+<!-- `1991-2004`
+Trumpet Player
+**Private lessons with trumpet players Rafael Carreño, Salvador Verdú and David Pastor** -->
+
+## Ocupación
+
+`2022-2024`
+**Salins**, Torrevieja (NCAST), Barcelona (Sal Costa)
+
+- CAD/CAE (modelado 3D de estructuras industriales mediante fotogrametría,
+  delineación, mejora y optimización de procesos, modificaciones en maquinaria, gestión de proyectos para renovación y mantenimiento de lineas de producción para alimentación (redacción de pliegos, planimetría, supervisión).
+
+`2008-2022`
+**Freelance**
+
+- CAD/CAE (delineación, diseño de piezas de plástico para inyección, optimización de procesos, análisis estructural, modelado y renderizado de interiores, muebles, maquinaria industrial y otros productos)
+- Electricidad/Electrónica (diagnóstico y reparación de electrodomésticos, e-readers, teléfonos móviles y ordenadores, reconstrucción, optimización del diseño o sustitución de piezas defectuosas)
+- Diseño gráfico (tarjetas de visita, webs, infografías, rótulos y posters)
+<!-- - Terapia Gestalt -->
+<!-- - Street bands and amateur funk-jazz bands trumpet player -->
+
+`2006-2008`
+**Tejas Borja S.A**, Lliria
+
+- Diseño de producto (estudios de mercado, diseño de nuevo producto y rediseño de producto existente)
+- Ingeniería mecánica (ingeniería inversa, modificaciones y adaptación a diferentes presas de moldes para teja cerámica, boquillas de extrusión, marcos y optimización de diseños para serigrafía, adaptación de cuchillas de corte de rebabas a diferentes moldes)
+- Documentación de producto (manuales de instrucciones, planos de producto, artículos para revistas, renders 3D)
+
+`2003-2006`
+**Nacher Albors**, Beniparrell
+
+- Diseño de producto (estudios de mercado de mueble tapizado, diseño de nuevo producto y rediseño y modularización de producto existente)
+- Stands para Feria Internacional del Mueble (diseño, calculos y planimetria para decorado de conglomerado, letras de EPS y estructura de tubo de aluminio para iluminación)
+- Diseño Gráfico (catálogos, documentación y presentación de la gama completa de productos y variaciones de estos, preparación para imprenta)
+- Documentación de producto (manuales de instrucciones, planos de producto, renders 3D)
+
+<!-- `1999-2004`
+**Different Companies**, Pedreguer, Calpe, Ondara, Denia (Spain)
+
+- Summer months mason's peon and farm worker
+
+`1998-1999`
+**Vall de Laguar town hall**, Vall de Laguar (Spain)
+
+- Waiter and manager of small swimming pool bar in summer months  -->
+
+
+## Conocimientos
+<!--{: #pgbrk}-->
+
+### Idiomas
+
+Español (nativo)
+
+Catalán (nativo)
+
+Inglés (buen dominio)
+
+### Habilidades Personales
+
+Rápida capacidad de aprendizaje
+
+Resolución efectiva de conflictos
+
+Capacidad analítica y crítica
+
+Dedicación
+
+Creatividad e innovación
+
+### Informáticos
+
+**CAD, CAE**
+
+SolidWorks, Inventor, AutoCAD, Onshape, Onscale, FreeCad, LibreCad, Build123d.
+
+**Gráficos 3D**
+
+3DStudio, Blender.
+
+**Gráficos 2D**
+
+Photoshop, Gimp, Corel, Freehand, Adobe Ilustrator, Inkscape, Adobe After Effects, Adobe Premiere.
+
+**Office**
+
+Microsoft Office, LibreOffice, Google Docs, Pandoc.
+
+**Sistemas Operativos (instalacíón, mantenimiento y reparación)**
+
+Windows (98, XP, 7, 8, 10), Linux (Ubuntu, Debian, Arch, Android).
+
+**Lenguajes de programación (CodeCAD, diseño web y scripting)**
+
+Python, HTML+CSS+JS, Arduino, OSL, Processing, markdown, bash.
+
+<!-- **Sheet music**
+
+Sibelius, Finale, Musescore, Lilypond. -->
+
+
+## Última actualización
+
+Octubre 2025

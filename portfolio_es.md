@@ -30,6 +30,4 @@ Curriculum Vitae
 
 ## Última actualización
 
-Abril 2018
-
-
+Octubre 2025
